@@ -43,20 +43,22 @@ http://localhost:8081
 
 You will see your HTML + CSS site running inside a Docker container.
 
-📁 Project Structure
-.
-├── Dockerfile 
-├── index.html
-└── style.css
 
 🩹 To Stop and Clean Up
-
+```bash
 docker stop mysite
+```
+
+```bash
 docker rm mysite
+```
 
 -----
+
 Simple preview
+
 ![image](https://github.com/user-attachments/assets/0db2d5aa-9b96-4d53-9a62-8c92f6f1d44c)
+
 ------
 
 
